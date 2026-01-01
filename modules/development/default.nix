@@ -47,26 +47,6 @@
     packer
     ansible
     vault
-    consul
-
-    # Security and pentesting tools
-    nmap
-    wireshark
-    tcpdump
-    netcat
-    socat
-    ngrep
-    metasploit
-    burpsuite
-    sqlmap
-    nikto
-    dirb
-    gobuster
-    ffuf
-    hydra
-    john
-    hashcat
-    aircrack-ng
 
     # Network tools
     dig
