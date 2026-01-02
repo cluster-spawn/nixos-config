@@ -85,13 +85,6 @@ sudo nixos-rebuild switch --flake .#dev-machine-1
 
 ## Included Tools
 
-### SecDevOps & Security Tools
-- **Network Analysis**: nmap, wireshark, tcpdump, netcat, mtr
-- **Penetration Testing**: metasploit, burpsuite, sqlmap, nikto, gobuster, ffuf
-- **Password Cracking**: hydra, john, hashcat
-- **Wireless**: aircrack-ng
-- **Monitoring**: prometheus, grafana, loki
-
 ### Go Development
 - Go compiler and runtime
 - gopls (language server)
