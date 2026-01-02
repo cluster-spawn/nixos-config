@@ -56,12 +56,6 @@
     iperf
     iproute2
 
-    # Monitoring and observability
-    prometheus
-    grafana
-    loki
-    promtail
-
     # CI/CD
     jenkins
     gitlab-runner
