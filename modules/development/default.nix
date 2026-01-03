@@ -31,12 +31,10 @@
     # Container and virtualization
     docker
     docker-compose
-    kubernetes
     kubectl
     k9s
     helm
     kind
-    minikube
     podman
     skopeo
     buildah
@@ -55,10 +53,6 @@
     mtr
     iperf
     iproute2
-
-    # CI/CD
-    jenkins
-    gitlab-runner
 
     # Text editors and IDEs
     neovim
